@@ -4,7 +4,11 @@ A tool to change the Speedometer &amp; Distancemeter Tire Index in an Astra G / 
 # Astra G Tachoindex Editor
 Ein kleines Programm, um in dem OP-COM EEPROM-Dump den Geschwindigkeitsindex anzupassen.
 
-  &nbsp;&nbsp;
+&nbsp;&nbsp;
+
+<a href="https://github.com/opctim/Astra-G-Tire-Index-Editor/raw/master/Astra-G_Tire_Index_Editor.jar">Download</a>
+
+&nbsp;&nbsp;
 
 ![alt text](https://raw.githubusercontent.com/opctim/Astra-G-Tire-Index-Editor/master/tie_1_screenshot.png)
 
